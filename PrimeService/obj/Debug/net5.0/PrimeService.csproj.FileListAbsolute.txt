@@ -1,0 +1,12 @@
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net5.0/PrimeService.deps.json
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net5.0/PrimeService.dll
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net5.0/ref/PrimeService.dll
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net5.0/PrimeService.pdb
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net5.0/PrimeService.csproj.AssemblyReference.cache
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net5.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net5.0/PrimeService.AssemblyInfoInputs.cache
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net5.0/PrimeService.AssemblyInfo.cs
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net5.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net5.0/PrimeService.dll
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net5.0/ref/PrimeService.dll
+/Users/Liam/UNO/SoftEng/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net5.0/PrimeService.pdb
